@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="508f9a89-f4aa-4285-98ac-e3d943007b5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Mesh.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glumpyOpenGL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meshClass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meshClassRun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meshProject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myMesh.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shark.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/skymap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/truck.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_OpenGL_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_OpenGL_Test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/skymap.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="196">
-              <caret line="115" column="18" lean-forward="true" selection-start-line="115" selection-start-column="18" selection-end-line="115" selection-end-column="18" />
+              <caret line="115" column="18" selection-start-line="115" selection-start-column="18" selection-end-line="115" selection-end-column="18" />
               <folding>
                 <element signature="e#34#59#0" expanded="true" />
               </folding>
@@ -41,7 +27,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/OpenGL/platform/baseplatform.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
+            <state relative-caret-position="11088">
               <caret line="401" selection-start-line="401" selection-end-line="401" />
             </state>
           </provider>
@@ -158,8 +144,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="215" />
-    <option name="y" value="34" />
+    <option name="x" value="66" />
+    <option name="y" value="33" />
     <option name="width" value="1718" />
     <option name="height" value="1000" />
   </component>
@@ -169,6 +155,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,7 +172,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -343,7 +329,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="215" y="34" width="1718" height="1000" extended-state="0" />
+    <frame x="66" y="33" width="1718" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -351,7 +337,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.295612" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.295612" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -462,6 +448,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/post-1-0-92134600-1453402516.jpg" />
+    <entry file="file://$PROJECT_DIR$/skymap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="115" column="18" selection-start-line="115" selection-start-column="18" selection-end-line="115" selection-end-column="18" />
+          <folding>
+            <element signature="e#34#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/OpenGL/platform/baseplatform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11088">
+          <caret line="401" selection-start-line="401" selection-end-line="401" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/glumpyOpenGL.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -510,26 +514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10780">
           <caret line="392" column="40" selection-start-line="392" selection-start-column="40" selection-end-line="392" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/OpenGL/platform/baseplatform.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="401" selection-start-line="401" selection-end-line="401" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/post-1-0-92134600-1453402516.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skymap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="115" column="18" lean-forward="true" selection-start-line="115" selection-start-column="18" selection-end-line="115" selection-end-column="18" />
-          <folding>
-            <element signature="e#34#59#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
